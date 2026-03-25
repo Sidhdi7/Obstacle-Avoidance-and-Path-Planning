@@ -38,10 +38,6 @@ The system combines perception and planning in a modular pipeline:
 - OpenCV  
 - A* Path Planning Algorithm  
 
-## Demo / Output
-(Add screenshots or videos here)
-- Example: Detected obstacles with bounding boxes  
-- Example: Planned path visualization on grid/map  
-- Example: Navigation trajectory in simulation  
 
-## Project Structure
+
+
